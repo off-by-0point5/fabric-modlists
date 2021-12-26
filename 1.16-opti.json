@@ -1,11 +1,11 @@
 {
-  "Fabric-API": "",
+  "Fabric-API": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar",
   "Fabric Language Kotlin": "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.6.4+kotlin.1.5.30/fabric-language-kotlin-1.6.4+kotlin.1.5.30.jar",
 
-  "FabricProxy-Lite": "",
+  "FabricProxy-Lite": "https://cdn.modrinth.com/data/8dI2tmqs/versions/v1.1.3/FabricProxy-Lite-1.1.3.jar",
 
-  "LazyDFU": "",
-  "Krypton": "",
-  "Starlight": "",
-  "Lithium": "",
+  "LazyDFU": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
+  "Krypton": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar",
+  "Phosphor": "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar",
+  "Lithium": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar",
 }
